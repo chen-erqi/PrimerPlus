@@ -1,0 +1,4 @@
+The test number is 5; The target distance is 100; The step length is 20.
+The max step is 61
+The min step is 11
+The average step is 124
