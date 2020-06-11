@@ -4,7 +4,8 @@ using namespace std;
 
 
 
-// 输入数字之后 最好加一个cin.get()；
+// 只要下一个输入不是字符类,则无需用cin.get()过滤空格。
+// cin读入数字时会自动对空格进行过滤
 
 int main()
 {
