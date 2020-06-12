@@ -4,8 +4,8 @@ using namespace std;
 
 
 
-// 只要下一个输入不是字符类,则无需用cin.get()过滤空格。
-// cin读入数字时会自动对空格进行过滤
+// 只要下一个输入不是getline,则无需用cin.get()过滤空格。
+// cin读入数字/字符时会自动对空格进行过滤
 
 int main()
 {
